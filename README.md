@@ -60,7 +60,7 @@ Please check `python style_main.py --help` or files under `configs/` for help.
 ## Contact
 
 If you have any questions or suggestions, feel free to open an issue on GitHub.
-You can also contact [Garv1tum](https://github.com/Grav1tum) and [lzlcs](https://github.com/lzlcs) directly.
+You can also contact [Garv1tum](https://github.com/Grav1tum) and [lzlcs](https://github.com/Lozical) directly.
 
 
 ## Citation
